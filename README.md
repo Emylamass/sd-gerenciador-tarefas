@@ -6,5 +6,9 @@ O trabalho de faculdade consiste na criação de uma aplicação de lista de tar
 
 
 Membros:
-@debora
-@emily
+https://github.com/deboragoncalves1
+Debora Goncalves
+RA: 
+
+https://github.com/Emylamass
+Emilly lamas
