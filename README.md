@@ -11,7 +11,7 @@ O trabalho de faculdade consiste na criação de uma aplicação de lista de tar
 - [Debora Goncalves](https://github.com/deboragoncalves1)
   - RA: 32115662
 - [Emilly Lamas](https://github.com/Emylamass)
-  - RA: xxxxxxx
+  - RA: 322130095
 
 ## Descrição
 
