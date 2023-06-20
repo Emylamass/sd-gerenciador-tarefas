@@ -1,4 +1,4 @@
-# Título: Gestão de Tarefas
+# Gestão de Tarefas
 
 ## Sobre o trabalho
 
