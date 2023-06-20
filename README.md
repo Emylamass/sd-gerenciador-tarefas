@@ -1,6 +1,6 @@
 # Gestão de Tarefas
 
-https://th.bing.com/th/id/R.1c9bad2e3e29a34cafe1080bb63ad033?rik=Ag5f%2fILvS0A9Ew&pid=ImgRaw&r=0
+![Imagem exemplo](https://th.bing.com/th/id/R.1c9bad2e3e29a34cafe1080bb63ad033?rik=Ag5f%2fILvS0A9Ew&pid=ImgRaw&r=0)
 
 ## Sobre o trabalho
 
