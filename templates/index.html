@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Bem vindo a Tarefas {% endblock %}</h1>
+    {% for tarefa in tarefa %}
+    	<a href="{{ url_for('tarefa', tarefa_id=tarefa[0]) }}"><h2>{{ tarefa[2] }}</h2></a>
+	    <span class="badge badge-primary">{{ tarefa[1] }}</span>
+	    <a href="{{ url_for('edit', id=tarefa[0]) }}">
+            <span class="badge badge-warning">Edit</span>
+        </a>
+	    <hr>
+    {% endfor %}	
+{% endblock %}

@@ -1,0 +1,7 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Pagina não encontrada {% endblock %}</h1>
+    <p>A ULR de requisição não foi encontrada.
+    <p><a href="{{ url_for('index') }}">Ir para pagina inicial</a>
+{% endblock %}
