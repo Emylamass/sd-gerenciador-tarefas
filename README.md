@@ -1,5 +1,7 @@
 # Gestão de Tarefas
 
+https://th.bing.com/th/id/R.1c9bad2e3e29a34cafe1080bb63ad033?rik=Ag5f%2fILvS0A9Ew&pid=ImgRaw&r=0
+
 ## Sobre o trabalho
 
 O trabalho de faculdade consiste na criação de uma aplicação de lista de tarefas, com o objetivo de auxiliar os usuários na organização e gerenciamento de suas atividades diárias.
